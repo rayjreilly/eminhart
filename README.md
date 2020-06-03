@@ -1,3 +1,3 @@
 # eminhart
 
-https://eminhart.com.github.io/
+https://www.eminhart.com/eminhart
